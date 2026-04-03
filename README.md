@@ -1,76 +1,108 @@
-## Hi there 👋
-
-<!--
-**Vikasku2004/Vikasku2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...# Hi 👋, I'm Vikas Kumar
-
-🎓 B.Tech CSE (Artificial Intelligence) | 2022–2026  
-💻 AI/ML Enthusiast | Full-Stack Developer | DSA Practitioner  
-📍 India  
+<h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
+<h3 align="center">🚀 AI/ML Engineer | Full-Stack Developer | DSA Enthusiast</h3>
 
 ---
 
-## 🚀 About Me
-
-- 🔭 Currently building AI-powered web applications  
-- 🧠 Solved 150+ Data Structures & Algorithms problems on LeetCode  
-- 🤖 Interested in Machine Learning, NLP & LLM Integration  
-- 🌐 Passionate about Full-Stack Development (React + Firebase)  
-- ☁ Exploring Cloud Deployment & Scalable Systems  
-
----
-
-## 🛠 Tech Stack
-
-**Languages:** Python, Java, C, C++  
-**Frontend:** HTML, CSS, JavaScript, React.js, Vite, Tailwind CSS  
-**Backend & DB:** Firebase (Auth, Firestore), REST APIs  
-**AI/ML:** Machine Learning, NLP, Feature Engineering  
-**Core CS:** DSA, OOPs, DBMS  
-**Tools:** Git, GitHub  
+## 🌟 About Me
+- 🔭 I’m currently working on **AI + Full Stack Projects**
+- 🌱 Learning **Advanced Machine Learning & System Design**
+- 💡 Passionate about building **real-world AI-powered applications**
+- 🧠 Solved **250+ DSA problems on LeetCode**
+- 🎯 Goal: Become a **Top Software Engineer / AI Engineer**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Tech Stack
 
-### 🔹 AI Trip Planner
-- AI-powered itinerary generator using React & Google Gemini API  
-- Firebase Authentication & Firestore integration  
-- Cloud deployed web application  
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 
-### 🔹 Fake News Detection
-- NLP-based text classification model  
-- Applied preprocessing & feature extraction  
+### 🤖 AI/ML & Deep Learning
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-blue?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-purple?style=for-the-badge)
+![RNN](https://img.shields.io/badge/RNN-orange?style=for-the-badge)
 
-### 🔹 Women Safety Route Prediction
-- ML-based predictive analytics system  
-- Crime dataset analysis for safer route recommendation  
+### 📚 Libraries & Tools
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange?style=for-the-badge)
+
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge)
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 🧠 Coding Profiles
+## 📊 GitHub Stats
 
-- 🔗 LeetCode: https://leetcode.com/u/VIKASKUMARSAH  
-- 🔗 GitHub: https://github.com/Vikasku2004  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikasku2004&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikasku2004&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikasku2004&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🚺 SafeRoute – Women Safety System
+🔗 https://github.com/Vikasku2004/Saferoute  
+- Full-stack system using **Node.js + ML**
+- Real-time safe route prediction based on crime data
+
+---
+
+### 🧠 Medicine Recommendation System
+🔗 https://github.com/Vikasku2004/Medicine-Recommendation-System-  
+- AI-powered system using **ML models**
+- Predicts disease & suggests medicines
+
+---
+
+### ✈️ AI Trip Planner
+- Built with **React + Gemini API**
+- Generates personalized travel itineraries
+
+---
+
+## 🏆 Achievements
+- 🧠 Solved **250+ DSA problems**
+- 🥈 Runner-Up – Hackathon
+- 💻 Built multiple **real-world projects**
 
 ---
 
 ## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/vikas-kumar-081863268  
-- Email: vikasku2004@gmail.com  
+- 📧 Email: vikasku2004@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/vikas-kumar-081863268  
 
 ---
 
-⭐ Always learning, building, and improving!
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun Fact
+> I turn ideas into **AI-powered real-world applications** 🚀
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vikasku2004&label=Profile%20views&color=blue&style=flat" alt="profile views"/>
+</p>
