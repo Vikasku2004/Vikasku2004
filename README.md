@@ -1,112 +1,199 @@
 <h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
-<h3 align="center">🚀 AI/ML Engineer | Full-Stack Developer | DSA Enthusiast</h3>
+
+<h3 align="center">
+🚀 AI/ML Engineer | Full-Stack Developer | SaaS Builder | DSA Enthusiast
+</h3>
+
+<p align="center">
+  <a href="https://github.com/Vikasku2004">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/vikas-kumar-081863268">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vikasku2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🌟 About Me
-- 🔭 I’m currently working on **AI + Full Stack Projects**
-- 🌱 Learning **Advanced Machine Learning & System Design**
-- 💡 Passionate about building **real-world AI-powered applications**
+## 👨‍💻 About Me
+
+I'm a **Computer Science (AI) graduate** passionate about building
+**AI-powered, scalable SaaS products and full-stack applications**.
+
+- 🤖 Building **AI/ML-powered real-world applications**
+- 🚀 Building **SaaS products and scalable web platforms**
+- 🌐 Developing modern **full-stack applications**
 - 🧠 Solved **250+ DSA problems on LeetCode**
-- 🎯 Goal: Become a **Top Software Engineer / AI Engineer**
+- 📚 Currently learning **Advanced Machine Learning & System Design**
+- ☁️ Exploring **Cloud, APIs, scalable architectures & deployment**
+- 💡 Passionate about turning ideas into **production-ready products**
+- 🎯 Goal: Become a strong **AI Engineer / Full-Stack Engineer**
 
 ---
 
-## 🚀 Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 
-### 🤖 AI/ML & Deep Learning
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-blue?style=for-the-badge)
-![CNN](https://img.shields.io/badge/CNN-purple?style=for-the-badge)
-![RNN](https://img.shields.io/badge/RNN-orange?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-### 📚 Libraries & Tools
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange?style=for-the-badge)
+### 🤖 AI / Machine Learning
 
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CNN-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RNN-FF8C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge"/>
+</p>
+
+### 📚 AI/ML Libraries
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+</p>
+
+### 🌐 Full-Stack Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### 🗄️ Database & Cloud
+
+<p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Neon-00E699?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+</p>
+
+### 🔐 Backend & Authentication
+
+<p>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20OAuth-4285F4?style=for-the-badge&logo=google"/>
+</p>
 
 ### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikasku2004&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikasku2004&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikasku2004&layout=compact&theme=tokyonight" />
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-## 🔥 Featured Projects
+# 🚀 Featured Projects
 
-### 🚺 SafeRoute – Women Safety System
-🔗 https://github.com/Vikasku2004/Saferoute  
-- Full-stack system using **Node.js + ML**
-- Real-time safe route prediction based on crime data
+## 🛡️ SafeRoute – Women Safety System
 
----
+🔗 **Repository:**  
+https://github.com/Vikasku2004/Saferoute
 
-### 🧠 Medicine Recommendation System
-🔗 https://github.com/Vikasku2004/Medicine-Recommendation-System-  
-- AI-powered system using **ML models**
-- Predicts disease & suggests medicines
+A full-stack women safety application that analyzes crime-related data
+to help identify safer travel routes.
 
----
+### ✨ Features
 
-### ✈️ AI Trip Planner
-- Built with **React + Gemini API**
-- Generates personalized travel itineraries
+- 🗺️ Safe route prediction
+- 🤖 ML-based risk analysis
+- 📊 Crime-data-driven route evaluation
+- ⚡ Real-time route analysis
+- 🌐 Full-stack architecture
 
-###  Daily TODO 
-A full-stack Todo web app built with Next.js 14 & FastAPI, featuring Google OAuth and JWT authentication.
-Users can create, manage, and track their daily tasks with a clean and responsive UI. Deployed with Vercel ,
-powered by Neon PostgreSQL.
----
-
-## 🏆 Achievements
-- 🧠 Solved **250+ DSA problems**
-- 🥈 Runner-Up – Hackathon
-- 💻 Built multiple **real-world projects**
+**Tech:** `Node.js` `Machine Learning` `JavaScript`
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: vikasku2004@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/vikas-kumar-081863268  
+## 🧠 Medicine Recommendation System
+
+🔗 **Repository:**  
+https://github.com/Vikasku2004/Medicine-Recommendation-System-
+
+An ML-powered application that analyzes symptoms to predict possible
+diseases and provide medicine recommendations.
+
+### ✨ Features
+
+- 🧠 Disease prediction
+- 💊 Medicine recommendations
+- 🔎 Symptom-based analysis
+- 📊 ML classification
+- 📈 Model evaluation
+
+**Tech:** `Python` `Pandas` `Scikit-learn` `Machine Learning`
 
 ---
 
-## ⚡ Fun Fact
-> I turn ideas into **AI-powered real-world applications** 🚀
+## ✈️ AI Trip Planner
+
+An AI-powered travel planning application that generates
+personalized travel itineraries.
+
+### ✨ Features
+
+- 🤖 AI-generated travel plans
+- 📍 Destination-based recommendations
+- 🗓️ Personalized itineraries
+- 🔐 Firebase authentication
+- 🌐 Responsive UI
+- ✨ Gemini API integration
+
+**Tech:** `React` `Vite` `Tailwind CSS` `Gemini API` `Firebase`
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vikasku2004&label=Profile%20views&color=blue&style=flat" alt="profile views"/>
-</p>
+## 🧾 AI-Assisted Customer Complaint Management
+
+An AI-assisted Customer Complaint Management system designed for
+**pharmaceutical manufacturing QMS**.
+
+The system converts unstructured customer complaints into structured,
+reviewable information using AI.
+
+### 🔄 Workflow
+
+```text
+Customer Complaint
+        ↓
+Email / PDF / Text
+        ↓
+AI Information Extraction
+        ↓
+Completeness Validation
+        ↓
+Risk Classification
+        ↓
+AI Summary
+        ↓
+Auto-Populated Form
+        ↓
+Human Review & Submission
