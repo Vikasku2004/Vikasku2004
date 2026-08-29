@@ -83,6 +83,10 @@
 - Built with **React + Gemini API**
 - Generates personalized travel itineraries
 
+###  Daily TODO 
+A full-stack Todo web app built with Next.js 14 & FastAPI, featuring Google OAuth and JWT authentication.
+Users can create, manage, and track their daily tasks with a clean and responsive UI. Deployed with Vercel ,
+powered by Neon PostgreSQL.
 ---
 
 ## 🏆 Achievements
