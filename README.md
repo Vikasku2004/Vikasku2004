@@ -1,11 +1,12 @@
-
 <div align="center">
 
-# 👋 Hi, I'm Vikas Kumar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Vikas%20Kumar&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20SaaS%20Builder&descAlignY=58&descSize=18" width="100%" alt="Header"/>
 
-### 🚀 AI/ML Engineer • Full-Stack Developer • SaaS Builder • DSA Enthusiast
+<a href="https://github.com/Vikasku2004">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=720&lines=Turning+Ideas+into+Intelligent%2C+Scalable+Apps;Building+AI-Powered+SaaS+Products;AI+%2F+ML+%7C+Full-Stack+%7C+DSA+Enthusiast" alt="Typing SVG"/>
+</a>
 
-**Turning Ideas into Intelligent, Scalable & Real-World Applications**
+<br/><br/>
 
 <p>
   <a href="https://github.com/Vikasku2004">
@@ -28,17 +29,17 @@
   <img src="https://img.shields.io/badge/Featured_Projects-6%2B-2563EB?style=for-the-badge"/>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vikasku2004&label=Profile%20Views&style=flat)
+<img src="https://komarev.com/ghpvc/?username=Vikasku2004&label=Profile%20Views&color=2563eb&style=flat" alt="Profile Views"/>
 
 </div>
 
----
+<br/>
 
 ## 👨‍💻 About Me
 
 I'm a **B.Tech Computer Science Engineering (Artificial Intelligence) graduate** passionate about developing AI-powered applications, scalable SaaS products, and modern full-stack solutions.
 
-I enjoy transforming ideas into complete software products — from frontend development and backend APIs to authentication, database integration, testing, and production deployment.
+I enjoy transforming ideas into complete software products, from frontend development and backend APIs to authentication, database integration, testing, and production deployment.
 
 - 🚀 Founder & Full-Stack Developer of **VBK Zenith**
 - 💻 Building modern full-stack web applications
@@ -50,9 +51,11 @@ I enjoy transforming ideas into complete software products — from frontend dev
 - 🧠 Solved **250+ DSA problems**
 - 🎯 Goal: Become a strong Software Engineer / AI Engineer and build impactful technology products
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" alt="divider"/>
 
-# 🧰 Tech Stack
+## 🧰 Tech Stack
+
+<div align="center">
 
 ### 💻 Programming Languages
 
@@ -121,21 +124,25 @@ I enjoy transforming ideas into complete software products — from frontend dev
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
----
+</div>
 
-# 🚀 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" alt="divider"/>
 
-## 🌟 1. VBK Zenith — Business & SaaS Platform
+## 🚀 Featured Projects
+
+### 🌟 1. VBK Zenith: Business & SaaS Platform
 
 **Founder & Full-Stack Developer | Production Deployment**
 
-[![Live Website](https://img.shields.io/badge/Live_Website-VBK_Zenith-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://vbk-zenith.vercel.app/)
+<a href="https://vbk-zenith.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Website-VBK_Zenith-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Website"/>
+</a>
 
 **VBK Zenith** is a modern technology and business platform built to showcase full-stack software development, AI/ML services, SaaS solutions, and business automation.
 
 I designed, developed, and deployed the platform with a responsive public website, secure administration system, Supabase integration, and a content management system.
 
-### 🛠️ Technology Stack
+#### 🛠️ Technology Stack
 
 | Layer | Technologies |
 |---|---|
@@ -149,7 +156,7 @@ I designed, developed, and deployed the platform with a responsive public websit
 | Version Control | Git & GitHub |
 | SEO | Metadata, Sitemap, Robots.txt |
 
-### ✨ Key Features
+#### ✨ Key Features
 
 - 🌐 Responsive business website
 - 🔐 Secure login and authentication flows
@@ -164,7 +171,7 @@ I designed, developed, and deployed the platform with a responsive public websit
 - ⚙️ Administrative settings
 - ☁️ Vercel production deployment
 
-### 🏗️ Platform Architecture
+#### 🏗️ Platform Architecture
 
 ```text
                   VBK ZENITH
@@ -192,7 +199,10 @@ I designed, developed, and deployed the platform with a responsive public websit
                 Vercel Hosting
 ```
 
-### 👨‍💻 My Responsibilities
+<details>
+<summary><b>👨‍💻 My Responsibilities (click to expand)</b></summary>
+
+<br/>
 
 - Planned the application architecture
 - Developed reusable frontend components
@@ -206,19 +216,18 @@ I designed, developed, and deployed the platform with a responsive public websit
 - Configured SEO metadata, sitemap, and robots.txt
 - Tested production authentication and deployment
 
-### 🔗 Project Links
+</details>
 
-🌍 **Live Website:** https://vbk-zenith.vercel.app/
+#### 🔗 Project Links
 
-🔒 **Source Code:** Private GitHub Repository
-
-🌐 **Custom Domain:** `vbkzenith.tech` — Planned
-
-**Status:** Version 1 deployed successfully.
+- 🌍 **Live Website:** https://vbk-zenith.vercel.app/
+- 🔒 **Source Code:** Private GitHub Repository
+- 🌐 **Custom Domain:** `vbkzenith.tech` (Planned)
+- ✅ **Status:** Version 1 deployed successfully
 
 ---
 
-## 🛡️ 2. SafeRoute — Women Safety System
+### 🛡️ 2. SafeRoute: Women Safety System
 
 A full-stack women safety application that uses machine learning and crime-related data to support safer route prediction.
 
@@ -228,7 +237,7 @@ A full-stack women safety application that uses machine learning and crime-relat
 
 ---
 
-## 🧠 3. Medicine Recommendation System
+### 🧠 3. Medicine Recommendation System
 
 A machine learning-powered healthcare application that predicts possible diseases based on symptoms and provides medicine-related recommendations.
 
@@ -238,11 +247,11 @@ A machine learning-powered healthcare application that predicts possible disease
 
 ---
 
-## ✈️ 4. AI Trip Planner
+### ✈️ 4. AI Trip Planner
 
 An AI-powered travel planning application that generates personalized travel itineraries based on destination, budget, trip duration, and travel preferences.
 
-### Features
+**Features**
 
 - AI-generated travel itineraries
 - Personalized destination planning
@@ -256,7 +265,7 @@ An AI-powered travel planning application that generates personalized travel iti
 
 ---
 
-## 🧾 5. AI-Assisted Customer Complaint Management
+### 🧾 5. AI-Assisted Customer Complaint Management
 
 An AI-assisted complaint management system for pharmaceutical manufacturing Quality Management Systems (QMS).
 
@@ -264,7 +273,7 @@ The system processes customer complaints from email, PDF, or text, extracts stru
 
 **Tech Stack:** AI, NLP, Full-Stack Development, AI Agent
 
-### Workflow
+**Workflow**
 
 ```text
 Customer Complaint
@@ -289,7 +298,7 @@ Auto-Populated Form
 Human Review & Submission
 ```
 
-### Key Capabilities
+**Key Capabilities**
 
 - AI-powered complaint extraction
 - Email, PDF, and text processing
@@ -301,11 +310,11 @@ Human Review & Submission
 
 ---
 
-## ✅ 6. Daily TODO — SaaS Task Management
+### ✅ 6. Daily TODO: SaaS Task Management
 
 A full-stack productivity application built for daily task management, authentication, and database-backed task tracking.
 
-### Features
+**Features**
 
 - User authentication
 - Google OAuth integration
@@ -318,7 +327,7 @@ A full-stack productivity application built for daily task management, authentic
 
 🌍 **Live Website:** https://daily-todo-virid.vercel.app/
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" alt="divider"/>
 
 ## 🏗️ How I Build Products
 
@@ -353,21 +362,17 @@ A full-stack productivity application built for daily task management, authentic
   🚀 PRODUCTION-READY PRODUCT
 ```
 
----
+I focus on building end-to-end applications rather than isolated demos.
 
 ## 🧠 DSA & Problem Solving
 
 <div align="center">
 
-![LeetCode](https://img.shields.io/badge/LeetCode-250%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+<img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 
 </div>
 
-### Topics Practiced
-
-Arrays • Strings • Linked Lists • Stack • Queue • Hashing • Binary Search • Sorting • Trees • Graphs • Recursion • Backtracking • Dynamic Programming
-
----
+**Topics Practiced:** Arrays • Strings • Linked Lists • Stack • Queue • Hashing • Binary Search • Sorting • Trees • Graphs • Recursion • Backtracking • Dynamic Programming
 
 ## 🏆 Achievements
 
@@ -380,15 +385,20 @@ Arrays • Strings • Linked Lists • Stack • Queue • Hashing • Binary S
 | 🚀 SaaS | Built and deployed SaaS-style products |
 | 🌟 VBK Zenith | Developed and deployed a business platform |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" alt="divider"/>
 
 ## 📊 GitHub Stats & Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Vikasku2004&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikasku2004&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Vikasku2004&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/>
 
 ### 📈 Contribution Graph
 
@@ -396,8 +406,6 @@ Arrays • Strings • Linked Lists • Stack • Queue • Hashing • Binary S
 
 </div>
 
----
-
 ## 🎯 Current Focus
 
 ```text
@@ -415,8 +423,6 @@ Arrays • Strings • Linked Lists • Stack • Queue • Hashing • Binary S
  Building Scalable AI-Powered Products
 ```
 
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -424,236 +430,23 @@ Arrays • Strings • Linked Lists • Stack • Queue • Hashing • Binary S
 <a href="mailto:vikasku2004@gmail.com">
   <img src="https://img.shields.io/badge/Email-vikasku2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://linkedin.com/in/vikas-kumar-081863268">
   <img src="https://img.shields.io/badge/LinkedIn-Vikas%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/Vikasku2004">
   <img src="https://img.shields.io/badge/GitHub-Vikasku2004-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 ### ⚡ Fun Fact
 
-**I don't just build projects — I build products.**
+**I don't just build projects, I build products.**
 
 Turning ideas into intelligent, scalable, real-world applications. 🚀
 
 ⭐ Thanks for visiting my GitHub profile!
 
-</div>ation-System-
-
----
-
-## ✈️ 4. AI Trip Planner
-
-An AI-powered travel planning application that generates personalized travel itineraries based on destination, budget, trip duration, and travel preferences.
-
-**Key Features:**
-- AI-generated travel itineraries
-- Personalized destination planning
-- Firebase authentication
-- Trip data storage
-- Responsive interface
-
-**Tech Stack:** React, Vite, Tailwind CSS, Gemini API, Firebase
-
-**Live Website:** https://ai-travel-planner-one-sigma.vercel.app/
-
----
-
-## 🧾 5. AI-Assisted Customer Complaint Management
-
-An AI-assisted complaint management system designed for pharmaceutical manufacturing Quality Management Systems (QMS).
-
-The system processes customer complaints from email, PDF, or text, extracts structured information, checks completeness, classifies risk, and prepares summaries for human review.
-
-**Tech Stack:** AI, NLP, Full-Stack Development, AI Agent
-
-### Workflow
-
-```text
-Customer Complaint
-  (Email / PDF / Text)
-          |
-          v
-AI Information Extraction
-          |
-          v
-Completeness Validation
-          |
-          v
-Risk Classification
-          |
-          v
-AI Complaint Summary
-          |
-          v
-Auto-Populated Form
-          |
-          v
-Human Review & Submission
-```
-
-### Key Capabilities
-
-- AI-powered complaint information extraction
-- Email, PDF, and text processing
-- Completeness validation
-- Risk classification
-- Automatic form population
-- AI chat assistant for follow-up questions
-- Structured complaint management
-
----
-
-## ✅ 6. Daily TODO — SaaS Task Management
-
-A full-stack productivity application built for daily task management, with authentication and database-backed task tracking.
-
-**Key Features:**
-- User authentication
-- Google OAuth integration
-- JWT-based authorization
-- Daily task management
-- PostgreSQL database integration
-- Responsive application interface
-
-**Tech Stack:** Next.js 14, FastAPI, PostgreSQL, Neon, Vercel
-
-**Live Website:** https://daily-todo-virid.vercel.app/
-
----
-
-## 🏗️ How I Build Products
-
-```text
-        💡 IDEA
-           |
-           v
-       🎨 UI / UX
-           |
-           v
-      ⚛️ FRONTEND
-           |
-           v
-     ⚙️ BACKEND APIs
-           |
-           v
-      🗄️ DATABASE
-           |
-           v
-       🤖 AI / ML
-           |
-           v
-    🔐 AUTHENTICATION
-           |
-           v
-     🧪 TESTING
-           |
-           v
-    ☁️ DEPLOYMENT
-           |
-           v
-  🚀 PRODUCTION-READY PRODUCT
-```
-
-I focus on building end-to-end applications rather than isolated demos.
-
----
-
-## 🧠 DSA & Problem Solving
-
-<div align="center">
-
-![LeetCode](https://img.shields.io/badge/LeetCode-250%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white)
-
-</div>
-
-### Topics Practiced
-
-Arrays • Strings • Linked Lists • Stack • Queue • Hashing • Binary Search • Sorting • Trees • Graphs • Recursion • Backtracking • Dynamic Programming
-
----
-
-## 🏆 Achievements
-
-| Achievement | Details |
-|---|---|
-| 🧠 DSA | Solved 250+ LeetCode problems |
-| 🥈 Hackathon | Runner-Up |
-| 🤖 AI/ML | Built multiple AI/ML applications |
-| 🌐 Full Stack | Developed end-to-end web applications |
-| 🚀 SaaS | Built and deployed SaaS-style products |
-| 🌟 VBK Zenith | Developed and deployed a business platform |
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vikasku2004&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikasku2004&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```text
-       🤖 AI Engineering
-                +
-    🌐 Full-Stack Development
-                +
-      🚀 SaaS Development
-                +
-      🧠 Machine Learning
-                +
-     📚 DSA & System Design
-                |
-                v
- Building Scalable AI-Powered Products
-```
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="mailto:vikasku2004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-vikasku2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/vikas-kumar-081863268">
-  <img src="https://img.shields.io/badge/LinkedIn-Vikas%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Vikasku2004">
-  <img src="https://img.shields.io/badge/GitHub-Vikasku2004-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Fun Fact
-
-**I don't just build projects — I build products.**
-
-Turning ideas into intelligent, scalable, real-world applications. 🚀
-
-⭐ Thanks for visiting my GitHub profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
